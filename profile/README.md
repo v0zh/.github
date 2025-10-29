@@ -1,7 +1,8 @@
 欢迎来到 v0zh ~ v0.app 中文社区
 
 - 社区网站：<https://v0zh.cn> 
-- 协作仓库：<https://github.com/v0zh> 
+- 协作仓库：<https://github.com/v0zh>
+- v0 101 <https://v0101.vercel.app/> v0.app 中文学习指南
 
 ❔ v0 是什么？
 
